@@ -1,0 +1,1 @@
+Hola, mi nombre completo es Lucas González Ingelmo. Tengo 27 años y vivo en Gijón.
