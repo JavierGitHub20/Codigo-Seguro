@@ -41,8 +41,8 @@ command to run if program contains helper info
 Contributors names and contact info
 
 
-Javier 
-Irene CID Rico
+ex. Javier Reñi 
+ex. Irene CID Rico
 =======
 ex. Lucas Gonzalez Ingelmo
 
