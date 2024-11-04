@@ -43,7 +43,6 @@ Contributors names and contact info
 
 ex. Javier Reñi 
 ex. Irene CID Rico
-=======
 ex. Lucas Gonzalez Ingelmo
 
 
