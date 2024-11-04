@@ -3,6 +3,10 @@
 Simple overview of use/purpose.
 
 ## Description
+
+=======
+
+
 Repositorio para incluir las mejores prácticas de creación de código seguro
 
 ## Getting Started
@@ -36,8 +40,12 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
+
 Javier 
 Irene CID Rico
+=======
+ex. Lucas Gonzalez Ingelmo
+
 
 ## Version History
 
