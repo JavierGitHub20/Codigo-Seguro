@@ -3,8 +3,7 @@
 Simple overview of use/purpose.
 
 ## Description
-
-An in-depth paragraph about your project and overview of use.
+Repositorio para incluir las mejores prácticas de creación de código seguro
 
 ## Getting Started
 
@@ -37,8 +36,8 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Javier 
+Irene CID Rico
 
 ## Version History
 
