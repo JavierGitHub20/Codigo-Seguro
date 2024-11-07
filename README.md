@@ -40,7 +40,6 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-
 * ex. [Javier Reñi](Javier.md) 
 * ex. Irene CID Rico
 * ex. [Lucas Gonzalez Ingelmo](Lucas.md)
